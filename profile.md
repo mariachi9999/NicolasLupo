@@ -77,7 +77,7 @@ I love to learn some new tools, and this time I worked with geolocalizations lib
 
 ---  
 <p align="center">
-    <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="300" height="225" align="center"/>
+    <img src="https://github.com/mariachi9999/NicolasLupo/blob/0950182d00fde48644bb6c338d42e6b16766c1b2/assets/weather-app.jpg" width="500" height="375" align="center"/>
   </p>
 ---  
 
