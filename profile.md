@@ -70,12 +70,15 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 ---  
 
 ### Weather-App
-App to look for your favourite videogame.
+Take a look to the weather before you go up to street.
+
+Developed mainly in React.
+I love to learn some new tools, and this time I worked with geolocalizations libraries which allows me to know the Ip of the client and them customize his welcome page with the city where he lives. 
 
 ---  
-
-[<img alt="" src="https://github.com/JavierBalonga/jikan-api-front/blob/master/preview.png" />](https://javierbalonga.github.io/jikan-api-front/)
-
+<p align="center">
+    <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="300" height="225" align="center"/>
+  </p>
 ---  
 
 #### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/jikan-api-front/)  
