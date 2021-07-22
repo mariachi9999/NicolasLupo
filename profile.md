@@ -100,7 +100,7 @@ I made this page to show some others skills which I have, like beeing Padel Inst
 #### Visit the site [Here](https://mariachi9999.github.io/)
 
 
-#### Link to repo [Here](https://github.com/mariachi9999/mariachi9999.github.io)
+#### Link to repo [Here](https://github.com/mariachi9999/professional-app.github.io)
 
 ---
 ---
