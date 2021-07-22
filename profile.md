@@ -64,8 +64,6 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 #### Link to repo [Aqui](https://github.com/mariachi9999/Videogames-App/)
 
-<!-- #### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/) -->
-
 ---  
 ---  
 
@@ -81,22 +79,25 @@ I love to learn some new tools, and this time I worked with geolocalizations lib
   </p>
 ---  
 
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/jikan-api-front/)  
+#### Link to repo [Aqui](https://github.com/mariachi9999/Weather-App)
 
 ---  
 ---  
 
-### Tui-and-La
-Es un proyecto hecho más que nada para una prueba de concepto sobre una posible aplicación de linkedList, donde el movimiento de los pescados se es dado a travez de un esqueleto basado en listas simplemente enlazadas  
-Y para mi diversión claro n_n
+### Professional Website
+Website developed to practice HTML5 and CSS3.
+Here I show you one of my great interest, sports! 
+I made this page to show some others skills which I have, like beeing Padel Instructor and Personal Trainer!  
 
 ---  
 
-[<img alt="" src="https://github.com/JavierBalonga/Tui-and-La/blob/master/preview.png" />](https://javierbalonga.github.io/Tui-and-La/)
+[<img alt="" src="https://github.com/mariachi9999/mariachi9999.github.io/preview.png" />](https://mariachi9999.github.io/)
 
 ---
+#### Visit the site [Aqui](https://mariachi9999.github.io/)
 
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Tui-and-La/)  
+
+#### Link to repo [Aqui](https://github.com/mariachi9999/mariachi9999.github.io)
 
 ---
 ---
