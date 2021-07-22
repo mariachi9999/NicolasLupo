@@ -56,7 +56,7 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="300" height="300" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="400" height="300" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/html5.png" width="30" height="30" align="center"/>
 </p>
 ---
