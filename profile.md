@@ -55,7 +55,7 @@ Developed with React, Redux, Express, Node.js, Postgres, Sequelize.
 Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 ---
-[<img alt="" src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/videogames-landing-page.jpg" />](https://github.com/mariachi9999/NicolasLupo/blob/main/assets/videogames-landing-page)
+![videogames-landing-page](https://github.com/mariachi9999/NicolasLupo/blob/main/assets/videogames-landing-page.jpg)
 ---
 #### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/)
 #### based on the following [artistic concept](https://ar.pinterest.com/pin/744079169681034966/)  
