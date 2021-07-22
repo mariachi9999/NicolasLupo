@@ -89,11 +89,14 @@ Website developed to practice HTML5 and CSS3.
 Here I show you one of my great interest, sports! 
 I made this page to show some others skills which I have, like beeing Padel Instructor and Personal Trainer!  
 
----  
-
-[<img alt="" src="https://github.com/mariachi9999/mariachi9999.github.io/preview.png" />](https://mariachi9999.github.io/)
-
 ---
+<p align="center">
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/8f0c418efd4dd93e04e4068385ebf9fb3eb0e5fd/assets/trainer-1.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/8f0c418efd4dd93e04e4068385ebf9fb3eb0e5fd/assets/trainer-2.JPG" width="300" height="225" align="center"/>
+    <img src="https://github.com/mariachi9999/NicolasLupo/blob/8f0c418efd4dd93e04e4068385ebf9fb3eb0e5fd/assets/trainer-3.JPG" width="300" height="225" align="center"/>
+  </p>
+---
+
 #### Visit the site [Aqui](https://mariachi9999.github.io/)
 
 
@@ -101,37 +104,6 @@ I made this page to show some others skills which I have, like beeing Padel Inst
 
 ---
 ---
-
-### Backgrounds
-Algunos fondos locos, más que nada para hacer una prueba sobre el efecto podía lograr con poco
-
----
-
-[<img alt="" src="https://github.com/JavierBalonga/Backgrounds/blob/master/preview.png" />](https://javierbalonga.github.io/Backgrounds/)
-
----
-
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Backgrounds/)  
-  
-- Puedes cambiar de fondo haciendo Clicks
-
----
----
-
-### Carousel-3D
-Uno de mis primeros proyectos, y relativamente simple
-
----
-
-[<img alt="" src="https://github.com/JavierBalonga/Carousel-3D/blob/master/preview.png" />](https://javierbalonga.github.io/Carousel-3D/)
-
----
-
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Carousel-3D/)  
-  
-- Se puede cambiar las imágenes a la izquierda o la derecha haciendo clic en las imágenes en los laterales
-- También hacer clic en una imagen varias posiciones a los lados hará que se coloque en el centro
-- Las imágenes cambiarán cada 10 segundos.
 
 ---
 ---
