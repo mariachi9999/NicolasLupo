@@ -1,4 +1,4 @@
-<img src='https://github.com/mariachi9999/NicolasLupo/blob/main/assets/6788944-Brad-Meltzer-Quote-Dream-big-work-hard-stay-humble.jpg'/>
+<img src='https://github.com/mariachi9999/NicolasLupo/blob/main/assets/6788944-Brad-Meltzer-Quote-Dream-big-work-hard-stay-humble.jpg'  width="1620" height="2880" align="center"/>
 
 ---
 
