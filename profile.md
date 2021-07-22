@@ -38,20 +38,22 @@
 ---  
 
 <p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariachi9999&layout=compact" />
+    <img align="center" alt="Nicolas Lupo GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariachi9999&layout=compact" />
 </p>
 
 ---
 
-## Algunos Proyectos:
+## Some Projects:
 
 ---  
 
-### Food-App 
-Una Landing page de Comida
+### Videogames-App 
+App to look for your favourite videogame.
+Developed with React, Redux, Express, Node.js, Postgres, Sequelize.
+Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 ---
-[<img alt="" src="https://github.com/JavierBalonga/Food-App/blob/master/preview.png" />](https://javierbalonga.github.io/Food-App/)
+[<img alt="" src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/videogames-landing-page" />](https://javierbalonga.github.io/Food-App/)
 ---
 #### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/)
 #### based on the following [artistic concept](https://ar.pinterest.com/pin/744079169681034966/)  
