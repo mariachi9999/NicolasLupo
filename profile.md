@@ -49,7 +49,9 @@
 
 ### Videogames-App 
 App to look for your favourite videogame.
+
 Developed with React, Redux, Express, Node.js, Postgres, Sequelize.
+
 Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 ---
