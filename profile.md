@@ -5,8 +5,6 @@
 ### Technical skills:  
 <p align="center">
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/c++.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/python.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/html5.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/css.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/react.png" width="30" height="30" align="center"/>
@@ -14,14 +12,12 @@
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/nodejs.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/express.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/postgresql.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/mysql.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/sqlite.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/sequelize.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/mocha.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/chai.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/jasmine.png" width="30" height="30" align="center"/>
   <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/webpack.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/arduino.png" width="30" height="30" align="center"/>
 </p>  
 
 ---  
