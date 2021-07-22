@@ -1,27 +1,27 @@
-<img src='assets\6788944-Brad-Meltzer-Quote-Dream-big-work-hard-stay-humble.jpg'/>
+<img src='https://github.com/mariachi9999/NicolasLupo/blob/main/assets/6788944-Brad-Meltzer-Quote-Dream-big-work-hard-stay-humble.jpg'/>
 
 ---
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/c++.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/python.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/redux.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/nodejs.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/express.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/postgresql.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mocha.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/chai.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/arduino.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/javascript.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/c++.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/python.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/html5.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/css.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/react.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/redux.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/nodejs.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/express.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/postgresql.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/mysql.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/sqlite.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/sequelize.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/mocha.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/chai.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/jasmine.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/webpack.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/main/assets/arduino.png" width="30" height="30" align="center"/>
 </p>  
 
 ---  
