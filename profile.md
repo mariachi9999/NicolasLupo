@@ -105,9 +105,6 @@ I made this page to show some others skills which I have, like beeing Padel Inst
 ---
 ---
 
----
----
-
 <p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JavierBalonga&show_icons=true&count_private=true" />
+    <img align="center" alt="Nicolas Lupo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariachi9999&show_icons=true&count_private=true" />
 </p> 
