@@ -1,2 +1,0 @@
-# NicolasLupo
-About me
