@@ -62,7 +62,7 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
   </p>
 ---
 
-#### Link to repo [Aqui](https://github.com/mariachi9999/Videogames-App/)
+#### Link to repo [Here](https://github.com/mariachi9999/Videogames-App/)
 
 ---  
 ---  
@@ -79,7 +79,7 @@ I love to learn some new tools, and this time I worked with geolocalizations lib
   </p>
 ---  
 
-#### Link to repo [Aqui](https://github.com/mariachi9999/Weather-App)
+#### Link to repo [Here](https://github.com/mariachi9999/Weather-App)
 
 ---  
 ---  
@@ -97,10 +97,10 @@ I made this page to show some others skills which I have, like beeing Padel Inst
   </p>
 ---
 
-#### Visit the site [Aqui](https://mariachi9999.github.io/)
+#### Visit the site [Here](https://mariachi9999.github.io/)
 
 
-#### Link to repo [Aqui](https://github.com/mariachi9999/mariachi9999.github.io)
+#### Link to repo [Here](https://github.com/mariachi9999/mariachi9999.github.io)
 
 ---
 ---
