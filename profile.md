@@ -62,14 +62,15 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
   </p>
 ---
 
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/)
-#### based on the following [artistic concept](https://ar.pinterest.com/pin/744079169681034966/)  
+#### Link to repo [Aqui](https://github.com/mariachi9999/Videogames-App/)
+
+<!-- #### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/) -->
 
 ---  
 ---  
 
-### jikan-api-front
-Una prueba de Front-End
+### Weather-App
+App to look for your favourite videogame.
 
 ---  
 
