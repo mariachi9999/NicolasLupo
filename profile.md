@@ -56,9 +56,9 @@ Some of the dependencies used were Axios, Cors, Chai, Mocha and Nodemon.
 
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-landing-page.JPG" width="400" height="300" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-home.JPG" width="400" height="300" align="center"/>
-    <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="400" height="300" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-landing-page.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-home.JPG" width="300" height="225" align="center"/>
+    <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="300" height="225" align="center"/>
   </p>
 ---
 
