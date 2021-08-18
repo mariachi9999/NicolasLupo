@@ -56,11 +56,11 @@ Developed with React, Redux, Express, Node.js, Postgres, Sequelize and some usef
 
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce2.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce3.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce4.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce5.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce2.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce3.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce4.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce5.JPG" width="225" height="393" align="center"/>
 
   </p>
 ---
