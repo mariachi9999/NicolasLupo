@@ -54,13 +54,16 @@ Developed with React, Redux, Express, Node.js, Postgres, Sequelize and some usef
 
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-landing-page.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/videogames-home.JPG" width="300" height="225" align="center"/>
-    <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/videogames-details.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/ecommerce.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/ecommerce2.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce3.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce4.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce5.JPG" width="300" height="225" align="center"/>
+
   </p>
 ---
 
-#### Link to repo [Here](https://github.com/mariachi9999/Videogames-App/)
+#### Visit our app [Here](https://hardwarestore.vercel.app/)
 
 ### Videogames-App 
 App to look for your favourite videogame.
