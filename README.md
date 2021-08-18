@@ -50,15 +50,17 @@
 ### Hardware Store 
 eCommerce website with crypto payments, mercado pago, customer bot and a lot of more features! :)
 
+Of course, It has a responsive design!
+
 Developed with React, Redux, Express, Node.js, Postgres, Sequelize and some useful APIs like Coinpayments, Mercado Pago and Google Social Login.
 
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/ecommerce.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/fc7c632c953097d288831a6c6d64f3205ddf812e/assets/ecommerce2.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce3.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce4.JPG" width="300" height="225" align="center"/>
-  <img src="https://github.com/mariachi9999/NicolasLupo/blob/f861c8479891d4b1311281e3cd397767b7f7f90f/assets/ecommerce5.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce2.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce3.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce4.JPG" width="300" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce5.JPG" width="300" height="225" align="center"/>
 
   </p>
 ---
