@@ -102,7 +102,6 @@ I love to learn some new tools, and this time I worked with geolocalizations lib
 #### Link to repo [Here](https://github.com/mariachi9999/Weather-App)
 
 ---  
----  
 
 ### Progressive web application - Counter
 This simple project helped me to understand the core concepts about PWA.
@@ -110,14 +109,15 @@ A progressive web application takes advantage of a mobile app’s characteristic
 
 ---  
 <p align="center">
-    <img src="https://github.com/mariachi9999/NicolasLupo/blob/0950182d00fde48644bb6c338d42e6b16766c1b2/assets/weather-app.jpg" width="500" height="375" align="center"/>
+    <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/pwa1.JPG" width="500" height="375" align="center"/>
+    <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/pwa2.JPG" width="500" height="375" align="center"/>
+    <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/pwa3.JPG" width="500" height="375" align="center"/>
   </p>
 ---  
 
 #### Link to repo [Here](https://react-pwa-counter.vercel.app/)
 
----  
----  
+---   
 
 ### Professional Website
 Website developed to practice HTML5 and CSS3.
