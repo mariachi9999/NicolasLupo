@@ -47,6 +47,36 @@
 
 ---  
 
+### Personal Blog 
+At LifeLearningTips.com, I have embarked on a mission to document my ever-evolving understanding of the world and my pursuit of knowledge, discipline, and personal growth. 
+This blog is more than a collection of insights—it is a living testament to my curiosity, my passion for continuous learning, and my love for life itself. 🌱✨📚
+
+Developed with React, Express, Node.js, MongoDB Atlas, Firebase Auth, EditorJS & Cloudinary and some useful libraries as TailwindCSS, Bcrypt & Jsonwebtoken.
+
+Deployed end to end.
+. Backend at Render (using the free tier plan... configuring my server to autoping itself to avoid time sleep restriction).
+. Frontend at Netlify.
+
+I learn how to buy my own web-domain, using Namecheap for this purpose.
+
+Take a look and leave some comments on [Here](https://lifelearningtips.com/)
+
+Cheers 🚀🙌
+---
+<p align="center">
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce2.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce3.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce4.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce5.JPG" width="225" height="393" align="center"/>
+
+  </p>
+---
+
+
+
+---  
+
 ### Hardware Store 
 eCommerce website with crypto payments, mercado pago, customer bot and a lot of more features! :)
 
