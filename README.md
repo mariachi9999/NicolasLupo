@@ -64,11 +64,10 @@ Take a look and leave some comments on [Here](https://lifelearningtips.com/)
 Cheers 🚀🙌
 ---
 <p align="center">
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-blog.JPG" width="225" height="393" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-blog.JPG" width="225" height="393" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-blog.JPG" width="225" height="393" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-blog.JPG" width="225" height="393" align="center"/>
-  <img src="https://github.com/mariachi9999/mariachi9999/blob/a0030a4290895919bad646ae37ca349b54eba6b7/assets/ecommerce5.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-blog.JPG" width="393" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-cellphone.JPG" width="225" height="393" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-dark.JPG" width="393" height="225" align="center"/>
+  <img src="https://github.com/mariachi9999/mariachi9999/blob/main/assets/life-learner-tips-home.JPG" width="393" height="225" align="center"/>
 
   </p>
 ---
