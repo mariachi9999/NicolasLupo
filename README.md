@@ -59,7 +59,7 @@ Deployed end to end.
 
 I learn how to buy my own web-domain, using Namecheap for this purpose.
 
-Take a look and leave some comments on [Here](https://lifelearnertips.com/)
+Take a look and leave some comments on [Here](https://lifelearnertips.com/){:target="_blank"}
 
 Cheers 🚀🙌
 ---
